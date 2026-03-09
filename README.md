@@ -88,7 +88,7 @@ An interactive Power BI dashboard was created to visualize key insights includin
 
 ## Dashboard
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard]-(https://github.com/sameera-shaik123/customer_behavior_analysis/blob/main/Dahsboard-snapshot.png)
 
 *Interactive dashboard built using Power BI to analyze customer purchasing trends and revenue distribution.*
 
