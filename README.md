@@ -119,30 +119,5 @@ This project includes:
 
 ---
 
-## How to Run the Project
 
-1. Clone the repository
 
-```
-git clone https://github.com/your-username/customer-behavior-analysis.git
-```
-
-2. Install required Python libraries
-
-```
-pip install pandas numpy matplotlib seaborn
-```
-
-3. Run the Python notebook for data analysis
-
-4. Import the dataset into PostgreSQL to execute SQL queries
-
-5. Open the Power BI file to explore the interactive dashboard
-
----
-
-## Author
-
-**Shaik Sameera**
-B.Tech CSE (Data Science)
-Aspiring Data Analyst
